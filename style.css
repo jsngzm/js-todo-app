@@ -1,1 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
 
+li {
+  cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
